@@ -1,11 +1,28 @@
+# Soundmark - Собирай Свой Звук 🎵
 
-  # Neobrutalism Website Elements
+Физические музыкальные аксессуары для цифровой эры. NFC-брелоки и постеры с обложками альбомов.
 
-  This is a code bundle for Neobrutalism Website Elements. The original project is available at https://www.figma.com/design/3IsPWP31yBA8R93dEIiazn/Neobrutalism-Website-Elements.
+## Запуск локально
 
-  ## Running the code
+```bash
+# Установить зависимости
+npm install
 
-  Run `npm i` to install the dependencies.
+# Запустить сервер разработки
+npm run dev
 
-  Run `npm run dev` to start the development server.
-  
+# Собрать для продакшена
+npm run build
+```
+
+## Технологии
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS v4
+- Pixel fonts (Press Start 2P, VT323)
+
+## Деплой
+
+Проект готов к деплою на Vercel, Netlify или любом другом хостинге для статических сайтов.
